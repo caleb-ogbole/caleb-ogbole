@@ -1,31 +1,14 @@
 # DevOps Learning
+Hi,I'm Caleb
 
-Welcome to the DevOps learning repository! This README file serves as a guide to help you navigate through the resources, tutorials, and best practices associated with DevOps.
+I am a final-year Urban and Regional Planning student bridging the gap between urban systems and tech infrastructure. I'm currently focused on transitioning into DevOps, Cloud Engineering, and AI automation. 
 
-## What is DevOps?
-DevOps is a software development methodology that combines software development (Dev) and IT operations (Ops). It aims to shorten the development life cycle, enhance deployment frequency, and achieve a more reliable release in alignment with business objectives.
+###  What I'm working on right now:
+* Building a software-based CO2 emissions calculator for my dissertation on CNG adoption.
+* Self-hosting and orchestrating automation workflows with Docker and n8n.
+* Rebuilding an automated dispatch notification system as a portfolio piece.
 
-## Key Concepts
-- **Continuous Integration (CI)**: Automate the integration of code changes from multiple contributors into a single software project.
-- **Continuous Delivery (CD)**: Ensure that the software can be reliably released at any time.
-- **Infrastructure as Code (IaC)**: Manage infrastructure using code and automation instead of manual processes.
-- **Monitoring and Logging**: Continuous monitoring of applications and infrastructure to obtain actionable insights.
-
-## Learning Resources
-### Online Courses
-- [DevOps Foundations - LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations)
-- [Complete DevOps Bootcamp - Udemy](https://www.udemy.com/course/complete-devops-bootcamp/)
-
-### Books
-- "The Phoenix Project" by Gene Kim
-- "Accelerate: The Science of Lean Software and DevOps" by Nicole Forsgren
-
-### Tools and Technologies
-- **Version Control**: Git, GitHub
-- **CI/CD Tools**: Jenkins, GitHub Actions, CircleCI
-- **Configuration Management**: Ansible, Puppet, Chef
-- **Containerization**: Docker, Kubernetes
-- **Monitoring**: Prometheus, Grafana
-  
-## Conclusion
-DevOps is a mindset and cultural shift that embodies collaboration across many teams. Engage with the materials available here and start your journey into the world of DevOps!
+###  What I'm learning:
+* **Cloud Infrastructure:** AWS & GCP 
+* **Data & Automation:** Python (Pandas) and advanced n8n workflows
+* **DevOps:** Building the foundation for a career in IT Infrastructure and DevOps
